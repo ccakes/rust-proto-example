@@ -1,0 +1,10 @@
+[package]
+name = "eth"
+version = "0.1.0"
+authors = ["Cameron Daniel <cam.daniel@gmail.com>"]
+
+[dependencies]
+protobuf = "1.6"
+
+[build-dependencies]
+protoc-rust = "1.6"
